@@ -2,6 +2,7 @@
     "SiteTitle": "application angular multilingual",
     "Welcome": "Welcome",
     "Click Here": "Click Here",
+    "Browse": "Browse",
     "login": {  
         "title": "Login Form",  
         "username.label": "Username",  
